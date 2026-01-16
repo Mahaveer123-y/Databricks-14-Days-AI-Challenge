@@ -19,14 +19,14 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 
 | Day | Topic | Key Learnings | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | Platform Setup & Architecture](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A1) | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
-| **02** | [Apache Spark Fundamentals](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A2)](Day_2)| Spark Architecture (Driver/Executor), Lazy Evaluation (DAG), Transformations vs Actions | ✅ Completed |
-| **03** | [PySpark Transformations Deep Dive](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A3)](Day_3) |Broadcast Joins (Optimization), Window Functions (Running Totals), Pivoting (Derived Features) | ✅ Completed |
-| **04** | [Delta Lake Introduction](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A4)](Day_4) | Delta Tables (ACID), Schema Enforcement, and Upserts (MERGE) | ✅ Completed |
-| **05** | [Delta Lake Advanced](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A5)](Day_5) | Time Travel, Optimization (Z-Order), and Maintenance (Vacuum) | ✅ Completed 
-| **06** | [Medallion Architecture](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A6)](Day_6) | Designing a Multi-Hop Architecture | ✅ Completed |
-| **07** | [Workflows & Job Orchestration](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A7)](Day_7) | Moving from Manual Notebooks to Automated Production Jobs | ✅ Completed |
-| **08** | [Unity Catalog Governance](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A8)](Day_8)  | Data Governance, Security, and SQL Namespaces | ✅ Completed |
+| **01** | [Platform Setup & Architecture](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A1) | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
+| **02** | [Apache Spark Fundamentals](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A2)]| Spark Architecture (Driver/Executor), Lazy Evaluation (DAG), Transformations vs Actions | ✅ Completed |
+| **03** | [PySpark Transformations Deep Dive](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A3)] |Broadcast Joins (Optimization), Window Functions (Running Totals), Pivoting (Derived Features) | ✅ Completed |
+| **04** | [Delta Lake Introduction](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A4)] | Delta Tables (ACID), Schema Enforcement, and Upserts (MERGE) | ✅ Completed |
+| **05** | [Delta Lake Advanced](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A5)]  | Time Travel, Optimization (Z-Order), and Maintenance (Vacuum) | ✅ Completed 
+| **06** | [Medallion Architecture](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A6)]  | Designing a Multi-Hop Architecture | ✅ Completed |
+| **07** | [Workflows & Job Orchestration](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A7)]  | Moving from Manual Notebooks to Automated Production Jobs | ✅ Completed |
+| **08** | [Unity Catalog Governance](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A8)]  | Data Governance, Security, and SQL Namespaces | ✅ Completed |
 | **09** | SQL Analytics & Dashboards |  | ⌛ Pending |
 ---
 
