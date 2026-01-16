@@ -19,7 +19,7 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 
 | Day | Topic | Key Learnings | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | [Platform Setup & Architecture](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A1) | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
+| **01** | [Platform Setup & Architecture (https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A1)] | Lakehouse, Schema Enforcement, Parquet vs CSV | ✅ Completed |
 | **02** | [Apache Spark Fundamentals](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A2)]| Spark Architecture (Driver/Executor), Lazy Evaluation (DAG), Transformations vs Actions | ✅ Completed |
 | **03** | [PySpark Transformations Deep Dive](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A3)] |Broadcast Joins (Optimization), Window Functions (Running Totals), Pivoting (Derived Features) | ✅ Completed |
 | **04** | [Delta Lake Introduction](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A4)] | Delta Tables (ACID), Schema Enforcement, and Upserts (MERGE) | ✅ Completed |
