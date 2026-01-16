@@ -31,7 +31,7 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 ---
 
 ### 🔗 Connect & Support
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/ruchithauppuluri/) to follow my daily updates!*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/mahaveer-yadav/) to follow my daily updates!*
 
 ⭐ **Star this repo** if you find these notes helpful!
 
