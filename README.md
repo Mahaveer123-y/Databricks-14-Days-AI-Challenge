@@ -27,7 +27,7 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 | **06** | [Medallion Architecture](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A6)  | Designing a Multi-Hop Architecture | ✅ Completed |
 | **07** | [Workflows & Job Orchestration](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A7)  | Moving from Manual Notebooks to Automated Production Jobs | ✅ Completed |
 | **08** | [Unity Catalog Governance](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A8)  | Data Governance, Security, and SQL Namespaces | ✅ Completed |
-| **09** | SQL Analytics & Dashboards |  | ⌛ Pending |
+| **09** | [SQL Analytics & Dashboards](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A9) |  | ✅ Completed | 
 ---
 
 ### 🔗 Connect & Support
