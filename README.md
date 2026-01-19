@@ -29,7 +29,15 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 | **08** | [Unity Catalog Governance](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A8)  | Data Governance, Security, and SQL Namespaces | ✅ Completed |
 | **09** | [SQL Analytics & Dashboards](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A9) | SQL Analysis, Reporting and Dashboards | ✅ Completed | 
 | **10** | [Performance Optimization](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A10) | Optimization and Performance | ✅ Completed |
+| **11** | [Performance Optimization](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A11) | Machine Learning Pre and Analysis | ✅ Completed |
+
+
+https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main?tab=readme-ov-file#-databricks-14-day-ai-challenge
 ---
+
+### Reference Taken from
+*[Git Repo] (https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main?tab=readme-ov-file#-databricks-14-day-ai-challenge)*
+*Connect [LinkedIn](https://www.linkedin.com/in/ruchithauppuluri/) to follow my daily updates!*
 
 ### 🔗 Connect & Support
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/mahaveer-yadav/) to follow my daily updates!*
