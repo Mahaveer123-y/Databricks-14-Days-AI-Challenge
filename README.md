@@ -40,9 +40,9 @@ This project was inspired by and adapted from the following open-source work:
 
 - *[GitHub Repository](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main?tab=readme-ov-file#-databricks-14-day-ai-challenge)*
   
-- *[Author LinkedIn](https://www.linkedin.com/in/ruchithauppuluri/) *
+- *[Author LinkedIn](https://www.linkedin.com/in/ruchithauppuluri/)*
 
-### All credits go to the original creator. This implementation includes my own customizations and learning improvements.
+## All credits go to the original creator. This implementation includes my own customizations and learning improvements.
 
 
 ### 🔗 Connect & Support
