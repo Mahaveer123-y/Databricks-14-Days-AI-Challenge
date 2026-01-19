@@ -32,11 +32,10 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 | **11** | [Performance Optimization](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A11) | Machine Learning Pre and Analysis | ✅ Completed |
 
 
-https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main?tab=readme-ov-file#-databricks-14-day-ai-challenge
 ---
 
 ### Reference Taken from
-*[Git Repo] (https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main?tab=readme-ov-file#-databricks-14-day-ai-challenge)*
+*[Git Repo](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main?tab=readme-ov-file#-databricks-14-day-ai-challenge)*
 *Connect [LinkedIn](https://www.linkedin.com/in/ruchithauppuluri/) to follow my daily updates!*
 
 ### 🔗 Connect & Support
