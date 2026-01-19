@@ -34,10 +34,16 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 
 ---
 
-### Reference Taken from
-*[Git Repo](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main?tab=readme-ov-file#-databricks-14-day-ai-challenge)*
+## 🙏 Acknowledgements
 
-*Connect [LinkedIn](https://www.linkedin.com/in/ruchithauppuluri/) *
+This project was inspired by and adapted from the following open-source work:
+
+- *[GitHub Repository](https://github.com/ruchitha-meenakshi/Databricks-14-Days-AI-Challenge/tree/main?tab=readme-ov-file#-databricks-14-day-ai-challenge)*
+  
+- *[Author LinkedIn](https://www.linkedin.com/in/ruchithauppuluri/) *
+
+### All credits go to the original creator. This implementation includes my own customizations and learning improvements.
+
 
 ### 🔗 Connect & Support
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/mahaveer-yadav/) to follow my daily updates!*
