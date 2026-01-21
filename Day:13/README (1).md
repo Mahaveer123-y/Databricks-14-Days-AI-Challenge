@@ -1,8 +1,8 @@
-# Day 12: MLflow Basics
-## Experiment Tracking & The "Accuracy Paradox" 
+# Day 13: MLflow Basics
+## Model Comparison and Feature Engineering" 
 
 **Challenge:** [Databricks 14-Day AI Challenge](https://www.linkedin.com/feed/hashtag/?keywords=databrickswithidc)  
-**Topic:** MLflow, Experiment Tracking, and Model Evaluation  
+**Topic:** Spark ML Pipelines help structure ML workflows  
 <img width="700" height="1350" alt="12" src="https://github.com/user-attachments/assets/ef65a1da-7c46-49c8-aa1c-86f583659b3b" />
 
 
