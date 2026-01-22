@@ -32,8 +32,7 @@ The **Databricks 14-Day AI Challenge** is designed to help beginners build a str
 | **11** | [Statistical Analysis & ML Prep](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A11) | Machine Learning Pre and Analysis | ✅ Completed |
 | **12** | [ Machine Learning Flows](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A12) | Machine Learning Flows | ✅ Completed |
 | **13** | [Model Comparision and Feature Engineering](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A13) | Machine Learning ALgorithm | ✅ Completed |
-
-
+| **14** | [AI-Powered Analytics: Genie & Mosaic AI](https://github.com/Mahaveer123-y/Databricks-14-Days-AI-Challenge/tree/main/Day%3A14) | Generative AI (Mosaic AI), Natural Language to SQL (Genie), and MLOps Governance | ✅ Completed |
 
 ---
 
